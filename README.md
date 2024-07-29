@@ -1,1 +1,1 @@
-# c-xor-encrypter
+# cpp-xor-encrypter
